@@ -11,10 +11,11 @@ You need to used the 5v Trinket for this, or else the CV pulse will not be stron
   
 Wiring table:
 
-| Trinket                  | Gnd | Pin #0 | Pin #2 | 5v out |
-| ------------------------ | --- | ------ | ------ | ------ |
-| 1/8" Jack                | -   | +      | n/c    | n/c    |
-| NO Momentary Pushbutton  | n/c | n/c    | -      | +      |
+| Trinket                  | Gnd | Pin #0 | Pin #2 | 5v out | Bat+ |
+| ------------------------ | --- | ------ | ------ | ------ | ---- |
+| 1/8" Jack                | -   | +      | n/c    | n/c    | n/c  |
+| NO Momentary Pushbutton  | n/c | n/c    | -      | +      | n/c  |
+| 9v Battery               | -   | n/c    | n/c    | n/c    | +    |
 
 
 Stay tuned for more instructions, and have a look at the code in the ".ino" file..
