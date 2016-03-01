@@ -10,8 +10,9 @@ As written, this is specifically for the Trinket; would need modifications on ot
 You need to used the 5v Trinket for this, or else the CV pulse will not be strong enough.
   
 Wiring table:
+
 | Trinket                  | Gnd | Pin #0 | Pin #2 | 5v out |
-|:------------------------:|:---:|:------:|:------:|:------:|
+| ------------------------ | --- | ------ | ------ | ------ |
 | 1/8" Jack                | -   | +      | n/c    | n/c    |
 | NO Momentary Pushbutton  | n/c | n/c    | -      | +      |
 
